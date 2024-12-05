@@ -1,1 +1,3 @@
-from django.db import models # nqode
+"""
+Define your core app models here.
+"""

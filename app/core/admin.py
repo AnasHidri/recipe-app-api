@@ -1,1 +1,3 @@
-from django.contrib import admin # nqode
+"""
+Define your core app admins here.
+"""
